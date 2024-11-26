@@ -1,5 +1,5 @@
 ---
-favicon: /complightlab.png
+favicon: /complight.png
 titleTemplate: '%s - Computational Light Laboratory'
 # You can also start simply with 'default'
 theme: default
