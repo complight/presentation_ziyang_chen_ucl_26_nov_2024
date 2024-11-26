@@ -79,7 +79,7 @@ class: text-white
 </div>
 <div v-after style="position: absolute; bottom: 50px; right: 660px;">
     <div class="w-64 h-64 overflow-hidden">
-      <img src="./light_propagation.jpg" alt="sensor" class="w-full h-full object-cover">
+      <img src="/light_propagation.jpg" alt="sensor" class="w-full h-full object-cover">
     </div>
     <p style="position: absolute; bottom: -60px; right: 10px; font-size: 0.6em; color: #888;">
       "<a rel="noopener noreferrer" href="https://www.flickr.com/photos/14341815@N00/4174879359">Christmas Tree Lights Bokeh</a>" by 
@@ -116,7 +116,7 @@ class: text-white
 
 <div v-after style="position: absolute; bottom: 50px; right: 100px;">
   <div class="w-100 h-100 overflow-hidden">
-    <img src="./image_sensor.jpg" alt="sensor" class="w-full h-full object-cover">
+    <img src="/image_sensor.jpg" alt="sensor" class="w-full h-full object-cover">
   </div>
   <p style="position: absolute; bottom: -60px; right: 10px; font-size: 0.6em; color: #888;">
   "<a rel="noopener noreferrer" href="https://www.flickr.com/photos/38365223@N03/8721197656">Reflection in image sensor</a>" by 
@@ -130,7 +130,7 @@ class: text-white
 
 <div v-click style="position: absolute; bottom: 50px; right: 100px;">
   <div class="w-100 h-100 overflow-hidden">
-    <img src="./image_sensor_w_box.png" alt="sensor" class="w-full h-full object-cover">
+    <img src="/image_sensor_w_box.png" alt="sensor" class="w-full h-full object-cover">
   </div>
   <p style="position: absolute; bottom: -60px; right: 10px; font-size: 0.6em; color: #888;">
   "<a rel="noopener noreferrer" href="https://www.flickr.com/photos/38365223@N03/8721197656">Reflection in image sensor</a>" by 
@@ -154,7 +154,7 @@ layout: default
  Conventional imaging system
 </div>
 <div v-after style="position: absolute; left: 50%; bottom: 80px; transform: translateX(-50%);">
-  <img src="./conventional.png" alt="sensor" class="w-130 h-auto object-cover">
+  <img src="/conventional.png" alt="sensor" class="w-130 h-auto object-cover">
   <br>
 </div>
 <p style="position: absolute; bottom: 0px; right: 5%; font-size: 0.6em; color: #888;">
@@ -173,7 +173,7 @@ layout: default
 # Imaging system Structure
 
 <div v-after style="position: absolute; left: 50%; bottom: 80px; transform: translateX(-50%);">
-  <img src="./no_lens.png" alt="sensor" class="w-130 h-auto object-cover">
+  <img src="/no_lens.png" alt="sensor" class="w-130 h-auto object-cover">
   <br>
 </div>
 <p style="position: absolute; bottom: 0px; right: 5%; font-size: 0.6em; color: #888;">
@@ -192,7 +192,7 @@ layout: default
  Lensless imaging system
 </div>
 <div v-after style="position: absolute; left: 50%; bottom: 80px; transform: translateX(-50%);">
-  <img src="./lensless_system.png" alt="sensor" class="w-130 h-auto object-cover">
+  <img src="/lensless_system.png" alt="sensor" class="w-130 h-auto object-cover">
   <br>
 </div>
 <p style="position: absolute; bottom: 0px; right: 5%; font-size: 0.6em; color: #888;">
@@ -212,7 +212,7 @@ layout: default
 </div>
 <br>
 <div v-click="1" style="position: absolute; left: 50%; bottom: 50px; transform: translateX(-50%); background-color: white; padding: 1rem; border-radius: 8px;">
- <img src="./camera_slice.png" alt="sensor" class="w-130 h-auto object-cover">
+ <img src="/camera_slice.png" alt="sensor" class="w-130 h-auto object-cover">
 </div>
 <p style="position: absolute; bottom: 0px; right: 5%; font-size: 0.6em; color: #888;">
  <a href="https://commons.wikimedia.org/wiki/File:Reflex_camera_simple_labels.svg">Astrocog</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
@@ -232,7 +232,7 @@ layout: default
 </div>
 
 <div style="position: absolute; left: 50%; bottom: 50px; transform: translateX(-50%); background-color: white; padding: 1rem; border-radius: 8px;">
-  <img src="./iphone.jpg" alt="sensor" class="w-110 h-auto object-cover">
+  <img src="/iphone.jpg" alt="sensor" class="w-110 h-auto object-cover">
 </div>
 <p style="position: absolute; bottom: 0px; right: 5%; font-size: 0.6em; color: #888;">
   <a href="https://commons.wikimedia.org/wiki/File:IPhone_13_Pro_camera_lens_group.jpg">人工知能</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
@@ -252,7 +252,7 @@ layout: default
 </div>
 
 <div style="position: absolute; left: 50%; bottom: 50px; transform: translateX(-50%); background-color: white; padding: 1rem; border-radius: 8px;">
-  <img src="./quest.jpg" alt="sensor" class="w-110 h-auto object-cover">
+  <img src="/quest.jpg" alt="sensor" class="w-110 h-auto object-cover">
 </div>
 <p style="position: absolute; bottom: 0px; right: 5%; font-size: 0.6em; color: #888;">
   <a href="https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display_unit.jpg">IHazACatNamedMax</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
@@ -278,7 +278,7 @@ layout: two-cols
 </v-clicks>
 
 <div v-if="$slidev.nav.clicks === 5" style="position: absolute; left: 50%; bottom: 50px; transform: translateX(-50%); background-color: white; padding: 0.2rem; border-radius: 8px;">
-  <img src="./sample_capture.png" alt="sensor" class="w-110 h-auto object-cover">
+  <img src="/sample_capture.png" alt="sensor" class="w-110 h-auto object-cover">
 </div>
 
 <div v-click="6">
