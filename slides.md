@@ -37,7 +37,7 @@ Supervised by Dr. Kaan Akşit and Dr. He Wang
 
 Nov 27th, 2024, London
 <div style="position: absolute; bottom: 50px; right: 30px;">
-  <img src="./lab_logo.png" alt="lab_logo" width="200" height="600">
+  <img src="/lab_logo.png" alt="lab_logo" width="200" height="600">
 </div>
 
 
