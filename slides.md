@@ -260,63 +260,6 @@ layout: default
 </p>
 
 ---
-layout: two-cols
----
-# Lensless camera
-
-<div class="mr-4">
-<h2 class="text-green-500 mb-4">Advantages</h2>
-
-<v-clicks>
-
-- <span class="text-green-500">**Size:** Compact imaging systems with millimeter thickness</span>
-
-- <span class="text-green-500">**Weight:** Significantly lighter (as light as a gram) without lens</span>
-
-- <span class="text-green-500">**Scalability:** Benefits from semiconductor fabrication advantages</span>
-
-- <span class="text-green-500">**Visual privacy:** Enhanced privacy through unrecognizable raw data</span>
-</v-clicks>
-
-<div v-if="$slidev.nav.clicks === 5" style="position: absolute; left: 50%; bottom: 50px; transform: translateX(-50%); background-color: white; padding: 0.2rem; border-radius: 8px;">
-  <img src="/sample_capture.png" alt="sensor" class="w-110 h-auto object-cover">
-</div>
-
-<div v-click="6">
-
-- <span class="text-green-500">**Compressive imaging:** Can reconstruct with more pixels than sensor measurements</span>
-
-</div>
-
-</div>
-
-::right::
-<br>
-<br>
-<div v-click="7" class="ml-4">
-<h2 class="text-red-500 mb-4">Limitations</h2>
-</div>
-
-<div v-click="8" class="ml-4">
-
-- <span class="text-red-500">**Quality:** May not match conventional lens-based imaging in 2D applications</span>
-
-</div>
-
-<div v-click="9" class="ml-4">
-
-- <span class="text-red-500">**Reconstruction algorithm:** Requires computational reconstruction, limiting real-time viewing</span>
-
-</div>
-
-<div v-click="10" class="ml-4">
-
-- <span class="text-red-500">**Light collection:** Limited by sensor size, potentially affecting brightness and noise performance</span>
-
-</div>
-
-
----
 transition: fade-out
 class: text-white
 layout: default
@@ -502,3 +445,14 @@ layout: center
 <video width="800" controls autoplay>
   <source src="/demo.mp4" type="video/mp4">
 </video>
+
+---
+transition: fade
+class: text-white
+layout: default
+---
+
+# Next
+
+- Utilize this imaging system in immersive display systems
+- Explore new 
