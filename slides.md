@@ -456,7 +456,7 @@ layout: default
 <br>
 
 <div class="flex flex-col items-center justify-center">
-  <img src="/assets/images/speckle_0.png" class="w-180" alt="Lensless Camera">
+  <img src="/speckle_0.png" class="w-180" alt="Lensless Camera">
   <p class="text-sm text-white-600 mt-2 italic">Holographic phenomenon where the phase and amplitude are random.</p>
 </div>
 
@@ -472,7 +472,7 @@ layout: default
 <br>
 
 <div class="flex flex-col items-center justify-center">
-  <img src="/assets/images/speckle_1.png" class="w-120" alt="Lensless Camera">
+  <img src="/speckle_1.png" class="w-120" alt="Lensless Camera">
   <p class="text-sm text-white-600 mt-2 italic">Simplified forward propagation of the laser light.</p>
 </div>
 
@@ -488,7 +488,7 @@ layout: default
 <br>
 
 <div class="flex flex-col items-center justify-center">
-  <img src="/assets/images/speckle_2.png" class="w-120" alt="Lensless Camera">
+  <img src="/speckle_2.png" class="w-120" alt="Lensless Camera">
   <p class="text-sm text-white-600 mt-2 italic">Information encoded in the speckle pattern.</p>
 </div>
 ---
