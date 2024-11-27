@@ -208,7 +208,7 @@ layout: default
 
 # Why?
 
-<div v-click="2" class="text-2xl font-semibold" style="position: center;">
+<div class="text-2xl font-semibold" style="position: center;">
  <span class="text-red-500">Complex optics</span> & <span class="text-red-500">large form factor</span>
 </div>
 <br>
@@ -228,7 +228,7 @@ layout: default
 
 # Why?
 
-<div v-click="2" class="text-2xl font-semibold" style="position: center;">
+<div  class="text-2xl font-semibold" style="position: center;">
  <span class="text-red-500">Thick lens</span> 
 </div>
 
@@ -248,7 +248,7 @@ layout: default
 
 # Why?
 
-<div v-click="2" class="text-2xl font-semibold" style="position: center;">
+<div class="text-2xl font-semibold" style="position: center;">
  <span class="text-red-500">Single purpose</span> & <span class="text-red-500">Visual privacy</span>
 </div>
 
@@ -353,29 +353,6 @@ layout: default
     [N. Antipa, G. Kuo, R. Heckel, B. Mildenhall, E. Bostan, R. Ng, and L.Waller, “DiffuserCam: lensless single-exposure 3D imaging,” Optica 5, 1–9 (2018).]
   </div>
 </div>
-
----
-transition: fade-out
-class: text-white
-layout: default
----
-
-# Lensless Camera Applications
-
-<br>
-
-## Video from a single frame
-
-<div class="flex flex-col h-full ">
-  <div class="flex items-center justify-center" style="background-color: white; padding: 0.2rem; border-radius: 8px;">
-    <img src="/video_from_a_frame.png" class="w-150" alt="Lensless Camera">
-  </div>
-  
-  <div class="text-sm text-gray-500 mb-6" style="font-size: 0.5em;">
-    [N. Antipa, P. Oare, E. Bostan, R. Ng, and L. Waller, “Video from stills: lensless imaging with rolling shutter,” in IEEE International Conference on Computational Photography (ICCP) (Institute of Electrical and Electronics Engineers, 2019).]
-  </div>
-</div>
-
 
 ---
 transition: fade-out
