@@ -286,29 +286,6 @@ Express 28, 8384–8399 (2020).]
   [V. Boominathan, J. K. Adams, J. T. Robinson, and A. Veeraraghavan, “PhlatCam: designed phase-mask based thin lensless camera,” IEEE Trans. Pattern Anal. Mach. Intell. 42, 1618–1629 (2020).]
   </div>
 </div>
----
-transition: fade-out
-class: text-white
-layout: default
----
-
-# Lensless Camera Applications
-
-<br>
-
-## Lightfield & re-focusing
-
-<div class="flex flex-col h-full ">
-  <div class="flex items-center justify-center" style="background-color: white; padding: 0.2rem; border-radius: 8px;">
-    <img src="/lightfield_refocusing.png" class="w-180" alt="Lensless Camera">
-  </div>
-
-  <div class="text-sm text-gray-500 mb-6" style="font-size: 0.5em;">
-    [Y. Hua, S. Nakamura, M. S. Asif, and A. C. Sankaranarayanan,“SweepCam—depth-aware lensless imaging using programmable masks,” IEEE Trans. Pattern Anal. Mach. Intell. 42, 1606–1617 (2020).]
-  </div>
-</div>
-
-
 
 ---
 transition: fade-out
