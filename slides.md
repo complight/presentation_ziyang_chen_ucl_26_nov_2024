@@ -406,6 +406,8 @@ class: text-white
 layout: default
 ---
 
-# Next
+# Current project
 
-- Utilize this imaging system in immersive display systems
+- Utilize this imaging system in immersive display systems (holographic display)
+  - Image quality improvements
+  - Simplify the calibration of the display
