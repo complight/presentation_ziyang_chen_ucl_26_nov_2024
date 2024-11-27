@@ -409,4 +409,3 @@ layout: default
 # Next
 
 - Utilize this imaging system in immersive display systems
-- Explore new 
