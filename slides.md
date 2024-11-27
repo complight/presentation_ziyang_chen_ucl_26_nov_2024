@@ -26,6 +26,7 @@ mdc: true
 overviewSnapshots: true
 # keywords field for exported PDF, comma-delimited
 keywords: computational imaging, holography
+css: ./style.css
 
 ---
 

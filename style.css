@@ -1,0 +1,7 @@
+:root {
+    --slidev-theme-background: black !important;
+  }
+  
+.slidev-layout {
+background-color: black !important;
+}
